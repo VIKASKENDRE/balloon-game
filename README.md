@@ -54,12 +54,13 @@ Add frame-by-frame burst animation
 
 Add depth to it (make it 3D)
 
-📷 Demo Screenshots
-![Calibration Screenshot](assets/calibration_screenshot.png)
-![GamePlay Screenshot](assets/gameplay_screenshot.png)
-
 🤝 Contributions
 Pull requests and feature suggestions are welcome to improve this educational AI game project.
 
 📝 License
 MIT License © 2025
+```
+
+📷 Demo Screenshots
+![Calibration Screenshot](assets/calibration_screenshot.png)
+![GamePlay Screenshot](assets/gameplay_screenshot.png)
