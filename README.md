@@ -64,3 +64,7 @@ MIT License © 2025
 📷 Demo Screenshots
 ![Calibration Screenshot](assets/calibration_screenshot.png)
 ![GamePlay Screenshot](assets/gameplay_screenshot.png)
+
+## 🗞 Featured On
+
+- [Hacker News Show HN](https://news.ycombinator.com/item?id=44511860)
