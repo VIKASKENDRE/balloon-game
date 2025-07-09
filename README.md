@@ -75,7 +75,8 @@ Add frame-by-frame burst animation
 Add depth to it (make it 3D)
 
 📷 Demo Screenshots
-<!-- Add your own screenshot later -->
+![Calibration Screenshot](assets/calibration_screenshot.png)
+![GamePlay Screenshot](assets/gameplay_screenshot.png)
 
 🤝 Contributions
 Pull requests and feature suggestions are welcome to improve this educational AI game project.
