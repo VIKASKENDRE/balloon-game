@@ -23,26 +23,6 @@ An interactive computer vision game where you burst floating balloons using real
 - **Mediapipe**
 - **Pygame**
 
----
-
-## 📁 **Project Structure**
-
-balloon_game/
-├── main.py
-├── config.py
-├── game.py
-├── menu.py
-├── utils.py
-├── assets/
-│ ├── balloon.png
-│ ├── burst.png
-│ ├── pop.wav
-│ └── bg_music.mp3
-└── highscore.txt
-
-
----
-
 ## ⚙️ **Setup Instructions**
 
 1. **Clone the repository:**
