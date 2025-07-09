@@ -1,5 +1,6 @@
-# 🎈 AI-Powered Balloon Burst Game
+One fine day while browsing through some site I came across an add for a AI powered motion tracking gaming system and it reminded me of the hay days of xbox 360 kinnect. I thought ny son would enjoy playing it, but this gaming cube was quite expensive. Well then I told myself let's try and build one with my expertise in python and opencv on my humble laptop, using it's built in camera as a tracker! and here it is.
 
+# 🎈 AI-Powered Balloon Burst Game
 An interactive computer vision game where you burst floating balloons using real-time hand tracking via your laptop camera. Designed as a fun educational project for AI + game development practice.
 
 ---
